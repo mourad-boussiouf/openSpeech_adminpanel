@@ -1,0 +1,15 @@
+{
+    "name": "mourad/open-speech_adminpanel",
+    "description": "panel admin",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "Classes/"        }
+    },
+    "authors": [
+        {
+            "name": "mourad-boussiouf",
+            "email": "mourad.boussiouf@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
