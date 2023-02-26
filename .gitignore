@@ -1,5 +1,4 @@
-# CakePHP 3
-
+.env
 /vendor/*
 /config/app.php
 
@@ -17,7 +16,6 @@
 /logs/*
 !/logs/empty
 
-# CakePHP 2
 
 /app/tmp/*
 /app/Config/core.php
