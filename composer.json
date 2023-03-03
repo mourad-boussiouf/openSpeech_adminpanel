@@ -11,5 +11,7 @@
             "email": "mourad.boussiouf@laplateforme.io"
         }
     ],
-    "require": {}
+    "require": {
+        "curl/curl": "^2.5"
+    }
 }
