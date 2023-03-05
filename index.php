@@ -1,9 +1,8 @@
 <?php
-// load toutes les classes via autoloader et curl 
+// load toutes les classes via autoloader
 require_once __DIR__ . '/vendor/autoload.php';
-require_once __DIR__ . '/curl.php';
 
-use \LoginPage;
+use MyApp\LoginPage;
 
 $loginPage = new LoginPage('http://localhost:3000/login');
 
